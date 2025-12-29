@@ -3,3 +3,5 @@ Django==6.0
 numpy==2.4.0
 sqlparse==0.5.5
 tzdata==2025.3
+django-cors-headers
+
